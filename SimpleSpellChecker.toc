@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: SimpleSpellChecker
+## Notes: Shows missing level 60 trainer and AQ20 book spells for your class.
+## Author: AI Assistant
+## Version: 1.1
+## SavedVariables: SimpleSpellCheckerDB
+
+SimpleSpellChecker.lua
